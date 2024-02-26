@@ -1,4 +1,4 @@
-package com.sberbank.postgretest.embedded;
+package com.sberbank.postgretest.embedded.zonky;
 
 import io.zonky.test.db.postgres.embedded.DatabaseConnectionPreparer;
 

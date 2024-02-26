@@ -1,6 +1,5 @@
-package com.sberbank.postgretest.embedded;
+package com.sberbank.postgretest.embedded.zonky;
 
-import com.sberbank.postgretest.embedded.SimplePreparer;
 import io.zonky.test.db.postgres.embedded.DatabasePreparer;
 import io.zonky.test.db.postgres.junit5.EmbeddedPostgresExtension;
 import io.zonky.test.db.postgres.junit5.PreparedDbExtension;

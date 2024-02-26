@@ -1,4 +1,4 @@
-package com.sberbank.postgretest.embedded;
+package com.sberbank.postgretest.embedded.zonky;
 
 import io.zonky.test.db.postgres.embedded.EmbeddedPostgres;
 import io.zonky.test.db.postgres.junit.EmbeddedPostgresRules;
@@ -13,7 +13,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-class EmbeddedPostgreApplicationTests {
+class SimpleSingleInstanceZonkyTest {
 
 	/**
 	 * Rule to create instance for test cases
